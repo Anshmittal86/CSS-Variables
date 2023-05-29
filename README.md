@@ -3,7 +3,7 @@
 
 This is the preview of site. 👇👇👇👇👇👇
 
-![CSS Varibles](https://github.com/Anshmittal86/CSS-Variables/assets/114221412/18f7d079-44c8-49a2-b0a8-a1ff7bf52261)
+![CSS Varibles](https://github.com/Anshmittal86/CSS-Variables/blob/main/assests/CSS%20Varibles.png)
 
 
 # CSS Variables
